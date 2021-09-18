@@ -1,0 +1,99 @@
+t không, bữa mới chạy lại win cmnr 
+
+xí tự sửa utf8
+
+chừ ri 
+lỗi utf8 
+lỗi tên biến không rõ
+hiểu ý không 
+ hiểu rùi, m làm lại cái utf 8 coi nờ, nãy nhanh qua
+ấn tổ hợp phím chi đó t kích dô nớ bấm alt enter
+okey, 2 cái ni thôi la` duoc roi he`
+ời 
+up lên git đi
+up xong về dưới máy sửa . xong lại up tiếp à. là trên git hắn có lịch sử chỉnh sửa hả
+ừm
+okey cái ni t tự tìm hiểu haha biết xài git chưa
+chưa, mà hỏi nữa phiền m quá thôi để làm giúp luôn 
+oke rứa nhờ mi luôn
+
+
+
+
+
+https://github.com/tt150300/Review-/commit/6049cba982b1308c7a0efd61cb90b6fe7a932858
+file ni chưa sửa 
+
+kêu team m lên đây mà thảo luận
+
+rồi 
+chừ xuống sửa
+đó tương tự
+xong rồi thid đẩy lên lại 
+xài lệnh ni 
+tự sửa 
+hs0 là numberA
+hs1 là numberB
+xong úp lên lại nè
+tương tự 
+git thì chừng ni 
+
+
+
+
+
+
+
+git status 
+git add .
+git commit -m "chi đó"
+git pull 
+git push -u origin master 
+
+đó tương tự mà làm :))
+
+rứa cái link ni, còn dùng đc không?
+được 
+
+cái sau khi push lại cũng dùng được phải không
+ừm 
+cái link trên là chưa sửa 
+
+
+
+
+
+
+
+
+
+
+https://github.com/tt150300/Review-/commit/6049cba982b1308c7a0efd61cb90b6fe7a932858
+chưa 
+sửa lần cuối rồi úp lên sửa đó lên là xong
+
+giờ thì t sửa lại utf8 xong up lên theo cú pháp mi gửi nữa là được phải ko
+ 
+mai mà ổng hỏi thì mở cái first commit nay` ra cho ổng coi xong rùi show cái second commit lên kêu là em đã fix hầy?
+ời 
+thường thì ổng đéo xem 
+vãi bìu, rứa bây ngồi nói 1 mình rứa à hh
+ời 
+tự làm thôi 
+để mình quen công cụ thôi 
+chứ cái ni làm miết quen 
+chớ ai mà hỏi 
+qujan trọng là ở m làm thoi
+à okk, rứa chắc xong rồi đó, chớ có sửa chi thêm mô, sửa nhiều mệt ời rúa sửa cái chi thì làm đi t out
+:))
+okk cám ơn nhiều nghen
+
+https://github.com/tt150300/Review-/commit/6049cba982b1308c7a0efd61cb90b6fe7a932858
+chưa sửa. 
+
+https://github.com/tt150300/Review-/commit/82e0ba23bb265a81b723c6dd73e8f1cc38cd59d6
+đã sửa tên biến
+
+https://github.com/tt150300/Review-/commit/640df58391d972aa4ca28757650c45b2cfeff12a
+đã đồng bộ lại tên biến
+
